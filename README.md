@@ -14,6 +14,12 @@ In project root run:
 ```sh
 docker-compose up
 ```
+
+## Test
+```sh
+npm test
+```
+
 ## Methods
 There are 4 request methods as an example. If you going are to create one, you should implement your class with  _`MethodInterface`_ and you should define your method in *config.ts*
 
