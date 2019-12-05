@@ -21,7 +21,7 @@ npm test
 ```
 
 ## Methods
-There are 4 request methods as an example. If you going are to create one, you should implement your class with  _`MethodInterface`_ and you should define your method in *config.ts*
+There are 4 request methods as an example. If you are going to create another one, you should implement your class with  _`MethodInterface`_ and you should define your method in *config.ts*
 
 #### createEntry 
 (_`CreateEntryMethod`_ - _`CreateEntryParams`_)
