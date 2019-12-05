@@ -94,7 +94,7 @@ curl -X POST \
   -H 'Content-Type: application/json' \
   -d '{
     "jsonrpc": "2.0",
-    "method": "getEntry",
+    "method": "getEntries",
     "params": {
         "take": 10,
         "skip": 0
